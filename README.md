@@ -5,7 +5,7 @@ Hello! My name is Simran and I'm a recent Geography–Data Science graduate from
 ## 🔍 Featured Projects
 
 ### 1. Mapping Climate Change with QGIS
-- Compared historical vs. projected precipitation data across the U.S.
+- Compared historical vs. projected temperatures data across the U.S.
 - Used raster datasets, interpolation, and custom symbology.
 - Designed inset maps to highlight regional climate impacts.
 
