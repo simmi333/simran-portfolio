@@ -15,7 +15,7 @@ Hello! My name is Simran and I'm a recent Geography–Data Science graduate from
 - Processed WSDOT data to create a Sankey diagram.
 - Analyzed ridership trends and flow patterns.
 
-!Ferry Snakey Diagram(Images/ferry_visualization.png)
+![Ferry Snakey Diagram](Images/ferry_visualization.png)
 
 ### 3. Web GIS: Tracking Carbon Emissions in Europe
 - Built with HTML, JavaScript, and SQL.
