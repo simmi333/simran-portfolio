@@ -48,12 +48,20 @@ We used three variables:
 Data collected from: Washington State Ferries Traffic Statistics Rider Segment Report 
 https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficStatistics-2023Annual.pdf
 
-### 4. Experience in Generative AI Tools
+
+### 4. Wildfires in Oregon (R)
+
+![Oregon Wildfires](Images/screenshot_wildfire.png)
+Link to Shiny App: http://127.0.0.1:5527/
+
+### 5. Experience in Generative AI Tools
 
 As part of the University of Washington’s Web GIS course, GEOG 328, taught by Dr. Bo Zhao, I explored the integration of generative AI—specifically ChatGPT—into the design and development of web-based geographic information systems. This approach enhanced productivity, simplified error analysis, and accelerated the learning curve for front-end development and spatial data handling.
 
 We worked AI tools like  ChatGPT and Copilot, and comapred them to eachother.
 
+https://github.com/jakobzhao/geog328
+
 
 ## 🧠 Skills
-Python, JavaScript, QGIS, R, PostgreSQL, Web GIS, Generative AI tools
+Python, JavaScript, QGIS, Excel, PostgreSQL, Web GIS, Generative AI tools
