@@ -22,5 +22,13 @@ Hello! My name is Simran and I'm a recent Geography–Data Science graduate from
 - Interactive time slider, emissions intensity gradients, and popups.
 - Designed for public and policymaker engagement.
 
+[Link to project website](https://jordanchiang627.github.io/Geog328_FinalProject/)
+[Link to project github](https://github.com/simmi333/Geog328_FinalProject.git)
+
+### 4. Experience in Generative AI Tools
+
+As part of the University of Washington’s Web GIS course, GEOG 328, taught by Dr. Bo Zhao, I explored the integration of generative AI—specifically ChatGPT—into the design and development of web-based geographic information systems. This approach enhanced productivity, simplified error analysis, and accelerated the learning curve for front-end development and spatial data handling.
+
+We worked AI tools like  ChatGPT and Copilot, and comapred them to eachother.
 ## 🧠 Skills
 Python, JavaScript, QGIS, R, PostgreSQL, Web GIS, Generative AI tools
