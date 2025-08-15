@@ -62,6 +62,14 @@ We worked AI tools like  ChatGPT and Copilot, and comapred them to eachother.
 
 https://github.com/jakobzhao/geog328
 
+### 6. Storymap of Bristih India Partition (ArcGIS Online)
+
+- Story Map of the India/Pakistan/Bangladesh Partitions
+- Shows how borders affected South Asia
+- Use of overlying historical maps on modern ones
+
+Link:
+https://storymaps.arcgis.com/stories/c3329ef58d574ae6a680a25ed86ff879
 
 ## 🧠 Skills
-Python, JavaScript, QGIS, Excel, PostgreSQL, Web GIS, Generative AI tools
+Python, JavaScript, QGIS, ArcGIS, R, PostgreSQL, Web GIS, Generative AI tools, Excel
