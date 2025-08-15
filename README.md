@@ -9,7 +9,7 @@ Hi! I'm a recent Geography–Data Science graduate from the University of Washin
 - Used raster datasets, interpolation, and custom symbology.
 - Designed inset maps to highlight regional climate impacts.
 
-![Climate Map](Mapping Climate Change with QGIS Map pic.png)
+![Climate Map](climate-map-qgis.png)
 
 ### 2. Ferry Ridership Flow Visualization (Python)
 - Processed WSDOT data to create a Sankey diagram.
