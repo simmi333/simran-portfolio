@@ -46,7 +46,7 @@ We used three variables:
 - Value: Number of riders
 
 Data collected from: Washington State Ferries Traffic Statistics Rider Segment Report 
-
+https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficStatistics-2023Annual.pdf
 
 ### 4. Experience in Generative AI Tools
 
