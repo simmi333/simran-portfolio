@@ -52,7 +52,7 @@ https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficS
 ### 4. Wildfires in Oregon (R)
 
 ![Oregon Wildfires](Images/screenshot_wildfire.png)
-Link to Shiny App: http://127.0.0.1:5527/
+Link to Shiny App: https://simmi333.shinyapps.io/wildfire-visualizer/
 
 ### 5. Experience in Generative AI Tools
 
