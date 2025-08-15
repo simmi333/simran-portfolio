@@ -1,6 +1,6 @@
 # Simran Bhatti – Climate & GIS Data Projects
 
-Hell0o!  My name is Simran and I'm a recent Geography–Data Science graduate from the University of Washington. I specialize in climate data analysis, GIS mapping, and web-based visualization tools. Here's a selection of my academic and personal projects.
+Hello! My name is Simran and I'm a recent Geography–Data Science graduate from the University of Washington. I specialized multiple programs within GIS and data science like R, QGIS, ArcGIS Online, and Web GIS. My projects span climate change mapping, carbon emissions tracking, and historical migration analysis. Here's a selection of my academic and personal projects.
 
 ## 🔍 Featured Projects
 
@@ -14,6 +14,8 @@ Hell0o!  My name is Simran and I'm a recent Geography–Data Science graduate fr
 ### 2. Ferry Ridership Flow Visualization (Python)
 - Processed WSDOT data to create a Sankey diagram.
 - Analyzed ridership trends and flow patterns.
+
+!Ferry Snakey Diagram(ferry_visualization.png)
 
 ### 3. Web GIS: Tracking Carbon Emissions in Europe
 - Built with HTML, JavaScript, and SQL.
