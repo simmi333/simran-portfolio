@@ -1,6 +1,6 @@
 # Simran Bhatti – Climate & GIS Data Projects
 
-Hello! My name is Simran and I'm a recent Geography–Data Science graduate from the University of Washington. I specialize in climate data analysis, GIS mapping, and web-based visualization tools. Here's a selection of my academic and personal projects.
+Hell0o!  My name is Simran and I'm a recent Geography–Data Science graduate from the University of Washington. I specialize in climate data analysis, GIS mapping, and web-based visualization tools. Here's a selection of my academic and personal projects.
 
 ## 🔍 Featured Projects
 
