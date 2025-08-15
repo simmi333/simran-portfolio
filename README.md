@@ -9,13 +9,13 @@ Hello! My name is Simran and I'm a recent Geography–Data Science graduate from
 - Used raster datasets, interpolation, and custom symbology.
 - Designed inset maps to highlight regional climate impacts.
 
-![Climate Map](climate-map-qgis.png)
+![Climate Map](images/climate-map-qgis.png)
 
 ### 2. Ferry Ridership Flow Visualization (Python)
 - Processed WSDOT data to create a Sankey diagram.
 - Analyzed ridership trends and flow patterns.
 
-!Ferry Snakey Diagram(ferry_visualization.png)
+!Ferry Snakey Diagram(images/ferry_visualization.png)
 
 ### 3. Web GIS: Tracking Carbon Emissions in Europe
 - Built with HTML, JavaScript, and SQL.
