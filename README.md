@@ -22,8 +22,12 @@ Hello! My name is Simran and I'm a recent Geography–Data Science graduate from
 - Interactive time slider, emissions intensity gradients, and popups.
 - Designed for public and policymaker engagement.
 
-- [Link to project website](https://jordanchiang627.github.io/Geog328_FinalProject/)
-- [Link to project github](https://github.com/simmi333/Geog328_FinalProject.git)
+[Link to project website](https://jordanchiang627.github.io/Geog328_FinalProject/)
+
+
+[Link to project github](https://github.com/simmi333/Geog328_FinalProject.git)
+
+![Europe Carbon](Images/screenshot1_finalproject.png)
 
 ### 4. Experience in Generative AI Tools
 
